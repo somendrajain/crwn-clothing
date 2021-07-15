@@ -15,10 +15,10 @@
     "reselect": "4.0.0"
   },
   "devDependencies": {
-    "react-scripts": "3.0.0"
+    "react-scripts": "^3.0.0"
   },
   "resolutions": {
-    "babel-jest": "24.7.1"
+    "babel-jest": "^24.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
